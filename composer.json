@@ -1,0 +1,20 @@
+{
+  "name": "pagon/core",
+  "description": "Core of Pagon Framework",
+  "keywords": ["framework", "pagon", "core"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Corrie Zhao",
+      "email": "hfcorriez@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.9"
+  },
+  "autoload": {
+    "psr-0": {
+      "Pagon": "lib/"
+    }
+  }
+}
