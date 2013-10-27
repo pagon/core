@@ -1,0 +1,4 @@
+core
+====
+
+Pagon Core
